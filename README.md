@@ -3,8 +3,8 @@ Simple Login App (Javascript/Typescript)
 
 # folders
 
-  - task-javascript: app with react
-  - task-typescript: app with react typescript
+  - login-js: app with react
+  - login-ts: app with react typescript
 
 # css
 
